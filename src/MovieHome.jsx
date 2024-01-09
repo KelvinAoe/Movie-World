@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import search from "./assets/search.svg";
-import MovieCard from "./Moviecard";
+import MovieCard from "./MovieCard.jsx";
 import RightButton from "./assets/right.svg";
 import LeftButton from "./assets/left.svg";
 
